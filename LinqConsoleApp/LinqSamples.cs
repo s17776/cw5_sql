@@ -262,7 +262,7 @@ namespace LinqConsoleApp
 
 
         }
-
+        
         /// <summary>
         /// SELECT * FROM Emps WHERE Salary=(SELECT MAX(Salary) FROM Emps);
         /// </summary>
